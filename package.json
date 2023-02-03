@@ -1,0 +1,19 @@
+{
+  "name": "spotify-shortcut-track-liker",
+  "version": "1.0.0",
+  "description": "Add the track to your favorites at the press of a key!",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [
+    "spotify",
+    "electron"
+  ],
+  "author": "Alexey Feklyunin <ninetailed1995@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^22.2.0"
+  }
+}
